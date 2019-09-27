@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/log4j/log4j.iml" filepath="$PROJECT_DIR$/log4j/log4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-kafka/spring-kafka.iml" filepath="$PROJECT_DIR$/spring-kafka/spring-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-aspect/springboot-aspect.iml" filepath="$PROJECT_DIR$/springboot-aspect/springboot-aspect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dynamic-data-sources/springboot-dynamic-data-sources.iml" filepath="$PROJECT_DIR$/springboot-dynamic-data-sources/springboot-dynamic-data-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-jpa/springboot-jpa.iml" filepath="$PROJECT_DIR$/springboot-jpa/springboot-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" filepath="$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-study.iml" filepath="$PROJECT_DIR$/.idea/springboot-study.iml" />
+    </modules>
+  </component>
+</project>
